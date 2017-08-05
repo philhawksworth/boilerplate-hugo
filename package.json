@@ -1,0 +1,20 @@
+{
+  "name": "Hugo Boilerplate",
+  "version": "1.0.0",
+  "description": "Useful to help me get new hugo site builds up and running quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Phil Hawksworth",
+  "license": "ISC",
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-hash": "^4.1.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

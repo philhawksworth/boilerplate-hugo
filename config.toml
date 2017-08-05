@@ -1,0 +1,3 @@
+baseURL = "https://www.hawksworx.com"
+title = "Phil's Hugo boilerplate"
+theme = "./simple-starter"
