@@ -1,3 +1,4 @@
 /node_modules
 /public
 /data/**/hash.*
+/themes/simple-starter/static/css/*.css
